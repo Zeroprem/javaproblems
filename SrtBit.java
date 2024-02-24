@@ -1,5 +1,5 @@
 public class java {
-  public static int getBit(int n, int i){
+  public static int etBit(int n, int i){
       int bitmask=1<<i;
       return n|bitmask;
 
